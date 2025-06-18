@@ -8,6 +8,8 @@ CarryMate is an AI-powered mobile robot designed to autonomously follow a human 
 
 **CarryMate** aims to reduce physical strain in environments where users need to carry multiple or heavy items — such as warehouses, campuses, or delivery zones. By detecting a person from the back and interpreting simple hand gestures, the robot can smartly follow or stop, acting like a "third hand" for logistics or personal use.
 
+Demo: https://youtu.be/nevOTUfiOmk
+
 ---
 
 ## 🎯 Features
@@ -44,3 +46,4 @@ Install dependencies:
 
 ```bash
 pip install ultralytics opencv-python mediapipe pyserial
+
